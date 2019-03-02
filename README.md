@@ -192,10 +192,10 @@
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)|[BestTimetoBuyandSellStockIV](https://github.com/stonecool/LeetCode/blob/master/101-200/BestTimetoBuyandSellStockIV.c)||
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[RotateArray](https://github.com/stonecool/LeetCode/blob/master/101-200/RotateArray.c)||
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits)|[ReverseBits](https://github.com/stonecool/LeetCode/blob/master/101-200/ReverseBits.c)||
-|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|[Numberof1Bits](https://github.com/stonecool/LeetCode/blob/master/101-200/Numberof1Bits.c)||
-|192|[Word Frequency](https://leetcode.com/problems/word-frequency)|[WordFrequency](https://github.com/stonecool/LeetCode/blob/master/101-200/WordFrequency.c)||
-|193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers)|[ValidPhoneNumbers](https://github.com/stonecool/LeetCode/blob/master/101-200/ValidPhoneNumbers.c)||
-|194|[Transpose File](https://leetcode.com/problems/transpose-file)|[TransposeFile](https://github.com/stonecool/LeetCode/blob/master/101-200/TransposeFile.c)||
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|[Numberof1Bits](https://github.com/stonecool/LeetCode/blob/master/101-200/Numberof1Bits.sh)|100%|
+|192|[Word Frequency](https://leetcode.com/problems/word-frequency)|[WordFrequency](https://github.com/stonecool/LeetCode/blob/master/101-200/WordFrequency.sh)|100%|
+|193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers)|[ValidPhoneNumbers](https://github.com/stonecool/LeetCode/blob/master/101-200/ValidPhoneNumbers.sh)|100%|
+|194|[Transpose File](https://leetcode.com/problems/transpose-file)|[TransposeFile](https://github.com/stonecool/LeetCode/blob/master/101-200/TransposeFile.sh)|100%|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line)|[TenthLine](https://github.com/stonecool/LeetCode/blob/master/101-200/TenthLine.c)||
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails)|[DeleteDuplicateEmails](https://github.com/stonecool/LeetCode/blob/master/101-200/DeleteDuplicateEmails.c)||
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature)|[RisingTemperature](https://github.com/stonecool/LeetCode/blob/master/101-200/RisingTemperature.c)||
