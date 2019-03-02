@@ -2,7 +2,7 @@
 
 |#|Title|Solution|Remark|
 |---|---|---|---|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[TwoSum](https://github.com/stonecool/LeetCode/blob/master/1-100/TwoSum.c) | |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[TwoSum](https://github.com/stonecool/LeetCode//1-100/TwoSum.c) | |
 |2||||
 |3||||
 |4||||
