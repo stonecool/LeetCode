@@ -56,7 +56,7 @@
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii)|[N-QueensII](https://github.com/stonecool/LeetCode/blob/master/1-100/N-QueensII.c)||
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[MaximumSubarray](https://github.com/stonecool/LeetCode/blob/master/1-100/MaximumSubarray.c)|100%|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|[SpiralMatrix](https://github.com/stonecool/LeetCode/blob/master/1-100/SpiralMatrix.c)||
-|55|[Jump Game](https://leetcode.com/problems/jump-game)|[JumpGame](https://github.com/stonecool/LeetCode/blob/master/1-100/JumpGame.c)||
+|55|[Jump Game](https://leetcode.com/problems/jump-game)|[JumpGame](https://github.com/stonecool/LeetCode/blob/master/1-100/JumpGame.c)|100%|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)|[MergeIntervals](https://github.com/stonecool/LeetCode/blob/master/1-100/MergeIntervals.c)||
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval)|[InsertInterval](https://github.com/stonecool/LeetCode/blob/master/1-100/InsertInterval.c)||
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[LengthofLastWord](https://github.com/stonecool/LeetCode/blob/master/1-100/LengthofLastWord.c)|100%|
